@@ -59,7 +59,20 @@ main {
     }
 
 }
+@media screen and (max-width:423){
+    .home {
+        height: 100vh;
+        width: 100%;
+        justify-content: center;
+        align-items: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
 
+    .home .home-row {
+        padding: 15px;
+    }
+}
 @media screen and (max-width: 288px) {
     .home {
         height: 100vh;
