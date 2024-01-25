@@ -61,6 +61,19 @@ main {
 }
 
 @media screen and (max-width: 288px) {
+    .home {
+        height: 100vh;
+        width: 100%;
+        justify-content: center;
+        align-items: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+
+    .home .home-row {
+        padding: 15px;
+    }
+
     .home .home-row h1 {
         font-size: 30px;
         color: white;
@@ -219,7 +232,8 @@ main {
         letter-spacing: 0.5px;
         margin-top: -10px;
     }
-    .about .about-col .info-col .icon-list .icon-listt ul li strong{
+
+    .about .about-col .info-col .icon-list .icon-listt ul li strong {
         display: inline-block;
     }
 
@@ -286,20 +300,22 @@ main {
 .fact .skli-imge {
     margin: 0 0 80px 40px;
     text-align: center;
-    box-shadow: 0px 0px 10px 1px;  
+    box-shadow: 0px 0px 10px 1px;
     width: 160px;
     padding: 16px 0px 9px 0px;
 }
-.fact .skli-imge:hover{
+
+.fact .skli-imge:hover {
     transform: translate(10px);
 }
+
 .fact .skli-imge img {
     height: 70px;
     width: 50%;
 }
 
-.skill-section{
-   background: #f5f8fd;
+.skill-section {
+    background: #f5f8fd;
 }
 
 @media screen and (max-width: 288px) {
@@ -346,7 +362,8 @@ main {
         margin: 0 0 40px 0;
         text-align: center;
     }
-    .fact .img-skil{
+
+    .fact .img-skil {
         justify-content: center;
         align-items: center;
         display: flex;
@@ -552,9 +569,11 @@ main {
     color: rgb(20, 157, 221);
     font-size: 20px;
 }
-.service .icon-box-service .service-title a:hover{
+
+.service .icon-box-service .service-title a:hover {
     color: blue;
 }
+
 .service .icon-box-service .icon-service:hover {
     background-color: blue;
     border: 2px solid blue;
@@ -725,12 +744,14 @@ main {
 .contact .contact-info .contact-form form input[type=submit]:hover {
     color: white;
 }
-.contact-form .btn{
+
+.contact-form .btn {
     text-align: center !important;
     display: block;
-   
+
 }
-.contact-form .btn button{
+
+.contact-form .btn button {
     background: #149ddd;
     border: 0;
     padding: 10px 24px;
@@ -738,6 +759,7 @@ main {
     transition: 0.4s;
     border-radius: 4px;
 }
+
 @media screen and (max-width: 288px) {
     .contact {
         padding: 70px 3px;
@@ -788,7 +810,8 @@ main {
         font-size: 15px;
         transition: 0.5s ease;
     }
-    .contact-form{
+
+    .contact-form {
         margin-top: 25px;
     }
 }
