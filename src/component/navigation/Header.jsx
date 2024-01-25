@@ -22,7 +22,7 @@ function Header() {
 
         <nav>
           <ul>
-            <li><i className="fa-solid fa-house" /><NavLink to='/' >home</NavLink></li>
+            <li><i className="fa-solid fa-house" /><NavLink to='/my-portfolio' >home</NavLink></li>
             <li> <i className="fa-solid fa-user" /><NavLink to='/about'>about</NavLink></li>
             <li> <i className="fa-solid fa-file" /><NavLink to='/resume'>resume</NavLink></li>
             <li>  <i className="fa-solid fa-server" /><NavLink to='/service'>services</NavLink></li>
