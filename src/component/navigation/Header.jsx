@@ -14,9 +14,9 @@ function Header() {
           <h3>nidhi prajapati</h3>
 
           <div className="social-icon">
-            <i className="fa-brands fa-instagram" />
-            <i className="fa-brands fa-linkedin" />
-            <i className="fa-brands fa-github" />
+          <NavLink to='https://www.instagram.com/n_i_d_h_u_1111?igsh=MWs1a3l2cGV3djZpbQ==' target='_blank'> <i className="fa-brands fa-instagram" /></NavLink> 
+           <NavLink to='https://www.linkedin.com/in/nidhi-prajapati-79a190178/'  target='_blank'><i className="fa-brands fa-linkedin" /></NavLink> 
+          <NavLink to='https://github.com/nidhiprajapati11'  target='_blank'><i className="fa-brands fa-github" /></NavLink>  
           </div>
         </div>
 
