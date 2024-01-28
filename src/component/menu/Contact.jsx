@@ -51,7 +51,7 @@ function Contact() {
 
               <Col xl={6} xs={12}  className='contact-info'>
                 <div className="contact-form">
-                  <form>
+                  <form action='https://formspree.io/f/mleqgawv' method='POST'>
                     <input type='text' name='name' placeholder='your name' />
                     <input type='email' name='email' placeholder='your email' />
                     <input type='text' name='subject' placeholder='your subject' />
