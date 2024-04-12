@@ -35,7 +35,7 @@ function Resume() {
               <div className="my-edu wow fadeInLeft">
                 <h3>BACHELOR OF ENGINEERING</h3>
                 <span className='sp-box'>2020-2023</span>
-                <p>cpi: 6:36</p>
+                <p>cpi: 6:65</p>
               </div>
 
               <div className="my-edu wow fadeInLeft">
