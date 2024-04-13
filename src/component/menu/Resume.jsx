@@ -35,14 +35,14 @@ function Resume() {
               <div className="my-edu wow fadeInLeft">
                 <h3>BACHELOR OF ENGINEERING</h3>
                 <span className='sp-box'>2020-2023</span>
-                <p>cpi: 6:65</p>
+                <p>cpi:- 6:65</p>
               </div>
 
               <div className="my-edu wow fadeInLeft">
                 <h3>DIPLOMA COMPUTER ENGINEERING</h3>
                 <span className='sp-box'>2017-2020</span>
                 <h6>Gujarat Technological University</h6>
-                <p>cpi: 6:68</p>
+                <p>cpi:- 6:68</p>
               </div>
             </div>
           </Col>
@@ -83,4 +83,4 @@ function Resume() {
   )
 }
 
-export default Resume
+export default Resume;
