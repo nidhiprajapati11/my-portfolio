@@ -13,7 +13,7 @@ function Services() {
               <Col xl={12} className='wow fadeInUp'>
                 <h1 className='sub-heading'>interest</h1>
                 <hr />
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quidem sit ea enim dolor ratione odio? Lorem ipsum dolor sit amet, consectetur adipisicing elit. Error, natus aperiam. Accusantium temporibus quisquam saepe.</p>
+                {/* <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quidem sit ea enim dolor ratione odio? Lorem ipsum dolor sit amet, consectetur adipisicing elit. Error, natus aperiam. Accusantium temporibus quisquam saepe.</p> */}
 
               </Col>
             </Row>

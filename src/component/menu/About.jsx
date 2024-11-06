@@ -20,7 +20,7 @@ function About() {
             <Col xl={12} className='import wow bounceInDown'>
               <h1 className='sub-heading'>about me</h1>
               <hr />
-              <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quae, consequatur alias tenetur, saepe ipsum facere a nihil, provident atque consectetur ex ab cumque! Sequi ipsam, perferendis enim quod atque asperiores?</p>
+              {/* <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quae, consequatur alias tenetur, saepe ipsum facere a nihil, provident atque consectetur ex ab cumque! Sequi ipsam, perferendis enim quod atque asperiores?</p> */}
 
             </Col>
 

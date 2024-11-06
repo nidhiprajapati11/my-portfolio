@@ -7,6 +7,7 @@ import bootstrap from '../img/bootstrap.jpg'
 import js from '../img/js.png'
 import taliwain from '../img/tailwind-css.png'
 import react from '../img/react.png'
+import angular from '../img/angulr.jpg'
 import 'animate.css';
 
 function Skill() {
@@ -71,6 +72,12 @@ function Skill() {
                                 <div className='skli-imge'>
                                     <img src={taliwain} alt='' />
                                     <h4>taliwain-css</h4>
+                                </div>
+                            </Col>
+                            <Col xl={3} md={6} className='wow fadeInRight img-skil'>
+                                <div className='skli-imge'>
+                                    <img src={angular} alt='' />
+                                    <h4>Angular</h4>
                                 </div>
                             </Col>
                         </Row>
